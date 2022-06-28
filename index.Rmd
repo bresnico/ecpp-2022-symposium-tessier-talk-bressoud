@@ -95,15 +95,16 @@ use_progress_bar(color = "#d2202b", location = "top")
 .pull-left[
 
 ```{r affiliation}
-#| out.width: 45%
+#| out.width: 40%
 
 library(knitr)
 
 folder <- "img/logos/"
 logos <- c("logo-hepvs.png",
            "logo-ema.png",
-           "logo-unifr.png",
+           "logo-unifr_crop.png",
            "logo-cheers.png",
+           "logo-hepl.png",
            "logo-unidistance.png",
            "logo-lyon2.png")
 
@@ -205,7 +206,7 @@ background-size: cover
 
 <div class="center">
 
-```{r out.width = '35%', echo=FALSE}
+```{r out.width = '45%', echo=FALSE}
 # local
 knitr::include_graphics("img/background-1-gb.jpg")
 ```
