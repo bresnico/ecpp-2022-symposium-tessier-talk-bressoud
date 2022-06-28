@@ -186,15 +186,13 @@ background-size: cover
 
 --
 
-- école en Suisse : inclusion et hétérogénéité
-- inclusion : enjeux
-- hétérogénéité : enjeux
-- comment fonctionner : opportunité pour la PP !!!!
+Schools in Switzerland :
 
-Schools tend to be more and more inclusive. Thus, classrooms are often very heterogeneous: students have to live, learn and maybe even flourish with very diverse people.
+- 26 educational systems
 
-clarifier le contexte CH
+- Inclusive policies (special needs)
 
+*"Integrative solutions are preferred over segregated solutions, while respecting the well-being and developmental potential of the child or youth concerned and taking into account the school environment and organization."*
 ---
 class: top
 background-image: url("img/background.png")
@@ -209,7 +207,7 @@ background-size: cover
 
 ```{r out.width = '35%', echo=FALSE}
 # local
-knitr::include_graphics("img/background-1.jpg")
+knitr::include_graphics("img/background-1-gb.jpg")
 ```
 
 </div>
@@ -234,19 +232,17 @@ background-size: cover
 
 --
 
-- définir.
-- linkins et al.
 
-In this context, strengths can be a very powerful vehicle to establish a greater sense of subjective well-being and enhance positive relationships. In this intervention, it is the teachers themselves who develop a strength-based culture in their classes with a particular activity. This study describes the effects of such an implementation.
+- Character strengths [(Peterson & Seligman, 2004)](https://psycnet.apa.org/record/2004-13277-000)
 
-
-- Forces de caractère [(Peterson & Seligman, 2004)](https://psycnet.apa.org/record/2004-13277-000)
-- Utilisation des forces (identifier, utiliser, promouvoir) [(Linkins et al., 2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581)
+- Use of strengths [(Linkins et al., 2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581)
 
 
-- Bénéfices pour les relations dans la classe [(Quinlan et al., 2014)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.920407)
-- Impact sur les affects positifs, le bien-être, la satisfaction de vie [(Schutte & Malouff, 2018)](https://link.springer.com/article/10.1007/s10902-018-9990-2)
-- **Impact potentiel en contexte inclusif sur la qualité de vie, le besoin d'affiliation, le comportement prosocial,...)**
+- Benefits in the classroom [(Quinlan et al., 2014)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.920407)
+
+- Impact on positive affects, WB, satisfaction of life [(Schutte & Malouff, 2018)](https://link.springer.com/article/10.1007/s10902-018-9990-2)
+
+- **Potential impact in inclusive settings on quality of life, affiliation needs, prosocial behaviour,...)**
 
 ---
 
@@ -508,7 +504,7 @@ background-size: cover
 ### Results
 ### Social support
 
-```{r out.width = '60%', echo=FALSE}
+```{r out.width = '50%', echo=FALSE}
 # local
 knitr::include_graphics("img/results-1.png")
 ```
@@ -522,7 +518,7 @@ background-size: cover
 ### Results
 ### psychological WB
 
-```{r out.width = '60%', echo=FALSE}
+```{r out.width = '50%', echo=FALSE}
 # local
 knitr::include_graphics("img/results-2.png")
 ```
@@ -536,7 +532,7 @@ background-size: cover
 ### Results
 ### School environment
 
-```{r out.width = '60%', echo=FALSE}
+```{r out.width = '50%', echo=FALSE}
 # local
 knitr::include_graphics("img/results-3.png")
 ```
@@ -551,21 +547,23 @@ background-size: cover
 
 --
 
-- MAR :
-    - « j’ai trouvé excellent »
-    - « je me suis senti bien mieux »
-    - « je n’avais jamais pensé à certaines de mes forces »
-    - « je crois que je m’entends mieux avec les autres »
-    - «  le travail sur les forces permet aux gens de se mettre ensemble et de se protéger les uns les autres »
+- MAR:
+    - "I found it excellent"
+    
+    - "I felt much better."
+    
+    - "I had never thought about some of my strengths"
+    
+    - "I think I get along better with others
+    
+    - "Strengths use allows people to come together and protect each other."
 
 --
 
-- KEN :
-    - « ça sert à montrer qu’on a tous quelque chose de bien »
-    - « Pour moi, je ne veux pas dire »
-    - «  je sais pas »
-    - « le bonheur est une illusion »
-
+- KEN:
+    - "it serves to show that we all have something good"
+    
+    - " happiness is an illusion "
 
 ---
 
@@ -577,16 +575,19 @@ background-size: cover
 
 --
 
-- GUI :
-    - « On se rend compte qu’on a tous des forces et que personne n’est mauvais »
-    - « Pour bien s’entendre, je comprends l’importance de ne pas se moquer »
+- GUI:
+    - "We realize that we all have strengths and no one is bad"
+    
+    - "To get along well, I understand the importance of not making fun of each other."
 
 --
 
-- NOR :
-    - « apprendre à voir qu’on est tous différents »
-    - « je me suis sentie heureuse en faisant cela »
-    - « ça améliore un tout petit peu l’ambiance »
+- NOR:
+    - "We learned to see that we are all different"
+    
+    - "I felt happy doing this"
+    
+    - "It improves the climate a little bit."
 
 ---
 class: title-slide, middle, inverse
@@ -609,11 +610,15 @@ background-size: cover
 
 --
 
-- Séquence plus longue
-- S’intégrer dans al vie de la classe
-- Offrir des opportunités d’adaptation par les profs
-- Garantir un cadre
-- Entraîner nos mécanismes attentionnels
+- Longer sequence
+
+- Integrate into the life of the classroom
+
+- Provide opportunities for adaptation by teachers
+
+- Provide a framework
+
+- Train our attentional mechanisms
 
 ---
 class: top
@@ -626,19 +631,24 @@ background-size: cover
 --
 
 .pull-left[
-Un boîte d’activité contient :
-- 1 plateau de jeu de 20 cases
-- 1 poster des 24 forces
-- 30 cartes défis
-- 24 cartes des forces
-- 1 dossier de matériel complémentaire
-- 1 guide de l’enseignant·e
+An activity box contains :
+- 1 game board with 20 squares
+
+- 1 poster of the 24 forces
+
+- 30 challenge cards
+
+- 24 force cards
+
+- 1 folder of supplementary materials
+
+- 1 teacher's guide
 ]
 
 .pull-right[
 
 <div class ="center">
-```{r out.width="70%"}
+```{r out.width="90%"}
 include_graphics(path = "img/perspectives-1.png")
 ```
 </div>
@@ -655,10 +665,13 @@ background-size: cover
 
 --
 
-- Les croyances et pratiques des enseignant·es ont un impact sur les élèves et leurs apprentissages
-- La conception de l’intelligence, chez les enseignant·es, a des effets sur les résultats des élèves
-- La conception du métier est un élément central de l’efficacité pédagogique
-- Les méthodes ne sont pas intrinsèquement efficaces
+- Teachers' beliefs and practices have an impact on students and their learning
+
+- Teachers' conceptions of intelligence affect student achievement
+
+- Job design is central to instructional effectiveness
+
+- Methods are not inherently effective
 
 e.g., [Hattie (2009)](https://www.researchgate.net/publication/270585193_Visible_Learning_A_Synthesis_of_Over_800_Meta-Analyses_Relating_to_Achievement), [Bressoux (2001)](https://www.researchgate.net/publication/267747865_Reflexions_sur_l'effet-maitre_et_l'etude_des_pratiques_enseignantes), [Elmore (1997)](https://files.eric.ed.gov/fulltext/ED429264.pdf)
 
@@ -677,8 +690,11 @@ background-size: cover
 ### Next steps
 
 - September 2022
+
 - Control group : 4-6 classes
+
 - Experimental group (teacher training and teaching tools) : 4-6 classes
+
 - 10-12 lessons over 3 months
 
 ---
@@ -690,7 +706,7 @@ background-size: cover
 .left[
 
 
-## &#x1F64F; Merci !
+## &#x1F64F; Þakka þér fyrir !
 
 ]
 
