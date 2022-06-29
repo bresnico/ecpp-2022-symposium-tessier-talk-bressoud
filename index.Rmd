@@ -716,7 +716,7 @@ background-size: cover
 .right[
 
 
-Crédits Photo par ordre d'apparition :
+Photo credits in order of appearance:
 
 [David Marcu](https://unsplash.com/photos/78A265wPiO4)
 
