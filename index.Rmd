@@ -187,7 +187,7 @@ background-size: cover
 
 --
 
-Schools in Switzerland :
+Schools in Switzerland:
 
 - 26 educational systems
 
@@ -243,7 +243,7 @@ background-size: cover
 
 - Impact on positive affects, WB, satisfaction of life [(Schutte & Malouff, 2018)](https://link.springer.com/article/10.1007/s10902-018-9990-2)
 
-- **Potential impact in inclusive settings on quality of life, affiliation needs, prosocial behaviour,...)**
+- **Potential impact in inclusive settings on quality of life, affiliation needs, prosocial behaviour,...**
 
 ---
 
@@ -281,7 +281,7 @@ background-size: cover
 --
 
 .pull-left[
-Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581) :
+Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581):
 
 1. Developing a character strengths language
 
@@ -312,7 +312,7 @@ background-size: cover
 ### Teaching Device
 
 .pull-left[
-Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581) :
+Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581):
 
 1. Developing a character strengths language
 
@@ -342,7 +342,7 @@ background-size: cover
 ### Teaching Device
 
 .pull-left[
-Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581) :
+Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581):
 
 1. Developing a character strengths language
 
@@ -373,7 +373,7 @@ background-size: cover
 ### Teaching Device
 
 .pull-left[
-Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581) :
+Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581):
 
 1. Developing a character strengths language
 
@@ -404,7 +404,7 @@ background-size: cover
 ### Teaching Device
 
 .pull-left[
-Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581) :
+Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581):
 
 1. Developing a character strengths language
 
@@ -435,7 +435,7 @@ background-size: cover
 ### Teaching Device
 
 .pull-left[
-Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581) :
+Based on the following five steps proposed by  [Linkins et al. (2015)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888581):
 
 1. Developing a character strengths language
 
@@ -481,13 +481,15 @@ background-size: cover
 
 - 24 pupils (12 &#9792;)
 
-- Special needs : ASD, child psychiatric intervention, psychological care, high potential
+- Special needs: ASD, child psychiatric intervention, psychological care, high potential
 
-- T1 (october 2016) and T2 (april 2017) completed by 14 children
+- 5 x 45 min lessons (1 lesson by step)
+
+- T1 (october 2016) and T2 (april 2017) totally completed by 14 children
 
 - semi-experimental method
-    - IV : time effect
-    - DV : psychological WB, Social support, school environment
+    - IV: Time effect
+    - DV: Psychological WB, Social support, School environment
 
 ---
 class: title-slide, middle, inverse
@@ -549,22 +551,22 @@ background-size: cover
 --
 
 - MAR:
-    - "I found it excellent"
+    - "I found it excellent."
     
     - "I felt much better."
     
-    - "I had never thought about some of my strengths"
+    - "I had never thought about some of my strengths."
     
-    - "I think I get along better with others
+    - "I think I get along better with others."
     
     - "Strengths use allows people to come together and protect each other."
 
 --
 
 - KEN:
-    - "it serves to show that we all have something good"
+    - "It serves to show that we all have something good."
     
-    - " happiness is an illusion "
+    - "Happiness is an illusion."
 
 ---
 
@@ -577,16 +579,16 @@ background-size: cover
 --
 
 - GUI:
-    - "We realize that we all have strengths and no one is bad"
+    - "We realize that we all have strengths and no one is bad."
     
     - "To get along well, I understand the importance of not making fun of each other."
 
 --
 
 - NOR:
-    - "We learned to see that we are all different"
+    - "We learned to see that we are all different."
     
-    - "I felt happy doing this"
+    - "I felt happy doing this."
     
     - "It improves the climate a little bit."
 
@@ -632,14 +634,14 @@ background-size: cover
 --
 
 .pull-left[
-An activity box contains :
-- 1 game board with 20 squares
+An activity box contains:
+- 1 game board with 20 steps
 
-- 1 poster of the 24 forces
+- 1 poster of the 24 strengths
 
 - 30 challenge cards
 
-- 24 force cards
+- 24 strengths cards
 
 - 1 folder of supplementary materials
 
@@ -670,7 +672,7 @@ background-size: cover
 
 - Teachers' conceptions of intelligence affect student achievement
 
-- Job design is central to instructional effectiveness
+- Own beliefs about what is teachinge is central to instructional effectiveness
 
 - Methods are not inherently effective
 
@@ -707,7 +709,7 @@ background-size: cover
 .left[
 
 
-## &#x1F64F; Þakka þér fyrir !
+## &#x1F64F; Þakka þér fyrir! - Thank you!
 
 ]
 
